@@ -31,3 +31,4 @@
 
 - ##### Russian - Native
 - ##### English - A2
+- ##### Belarussian - Native
