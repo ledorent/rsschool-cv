@@ -22,8 +22,6 @@
 
 - ##### HTML
 - ##### CSS 
-- ##### JavaScript
-- ##### Git/GitHub
 - ##### VS Code
 - ##### Adobe Photoshop
 
